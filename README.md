@@ -1,4 +1,4 @@
-- 👋 Hi, I’m D.Alekhya
+- 👋 Hi, I’m Alekhya Duggirala
 - 👀 I’m interested in computer sciences
 - 🌱 I’m currently learning artificial intelligence at Amrita Vishwa Vidhyapeetham
 <!---
